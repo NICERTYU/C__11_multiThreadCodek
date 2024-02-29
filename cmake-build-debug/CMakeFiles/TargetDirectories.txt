@@ -1,0 +1,3 @@
+/Users/gw/CLionProjects/C++11 multiThreadCode/cmake-build-debug/CMakeFiles/C__11_multiThreadCode.dir
+/Users/gw/CLionProjects/C++11 multiThreadCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gw/CLionProjects/C++11 multiThreadCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
