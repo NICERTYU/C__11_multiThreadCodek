@@ -1,5 +1,6 @@
 # ninja log v5
-0	514	1709213620366104052	CMakeFiles/C__11_multiThreadCode.dir/main.cpp.o	d79a289cd816bc93
-516	553	1709213620406530377	C__11_multiThreadCode	eb36d6ea73b79659
-3	492	1709213745385981810	CMakeFiles/C__11_multiThreadCode.dir/main.cpp.o	d79a289cd816bc93
-492	530	1709213745425122269	C__11_multiThreadCode	eb36d6ea73b79659
+3	471	1709435519466791788	CMakeFiles/C__11_multiThreadCode.dir/main.cpp.o	d79a289cd816bc93
+8	465	1709283775954663713	CMakeFiles/C__11_multiThreadCode.dir/chapter02/base_thread_manage/function_object.cpp.o	9c8e4bbcd18e3137
+471	584	1709435519580238591	C__11_multiThreadCode	35a9ac53bc30c1c5
+3	490	1709455103362291195	CMakeFiles/C__11_multiThreadCode.dir/main.cpp.o	d79a289cd816bc93
+490	602	1709455103475156331	C__11_multiThreadCode	35a9ac53bc30c1c5
