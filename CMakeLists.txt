@@ -9,4 +9,5 @@ add_executable(C__11_multiThreadCode main.cpp
         chapter02/ThreadRALL/ThreadRall.h
         chapter02/ThreadRALL/Thread_num.h
         chapter02/parallel_alogrithm/parallel_accumulate.h
-        chapter02/ThreadId/ThreadID.h)
+        chapter02/ThreadId/ThreadID.h
+        chapter03/use_mutex.h)
